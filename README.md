@@ -5,5 +5,5 @@ Resume HTML CSS Template
 
 [+] Responsive
 
-<img src="img/F.png"  align="center" />
+<img src="src/F.png"  align="center" />
 
